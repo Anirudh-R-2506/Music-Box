@@ -1,5 +1,6 @@
 #!usr/local/bin/python3
 #import all necessary modules
+#argparse version of the script
 import os
 from pynput import keyboard
 import sys
